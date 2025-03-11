@@ -1,11 +1,6 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
-
-Head over to https://vitejs.dev/ to learn more about configuring vite
+# Password Generator
+A simple password generator made using HTML, CSS and JavaScript. Made as
+part of the Scrimba Frontend course.
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
